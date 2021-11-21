@@ -1,0 +1,15 @@
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\bin\Debug\Hotel_Management.exe.config
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\bin\Debug\Hotel_Management.exe
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\bin\Debug\Hotel_Management.pdb
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\bin\Debug\Guna.UI2.dll
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.Properties.Resources.resources
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.csproj.GenerateResource.cache
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.csproj.CoreCompileInputs.cache
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.exe
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.pdb
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.LoginForm.resources
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.Management.resources
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.csproj.AssemblyReference.cache
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.UC_AddRoom.resources
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.UC_AddUser.resources
+C:\Users\lengo\source\repos\DoAn\Hotel_Management\obj\Debug\Hotel_Management.UC_DashBoard.resources
